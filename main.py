@@ -1,9 +1,9 @@
-## Author Qiaoxu Cui qfc5036@psu.edu
-## Collaborator Zhili Bu zjh5625@psu.edu
-## Collaborator: Shufang Huang sbh5655@psu.edu
-## Collaborator: Isabel Vera ikv5018@psu.edu
-## Section: 8
-## Breakout: 11
+# Author Qiaoxu Cui qfc5036@psu.edu
+# Collaborator Zhili Bu zjh5625@psu.edu
+# Collaborator: Shufang Huang sbh5655@psu.edu
+# Collaborator: Isabel Vera ikv5018@psu.edu
+# Section: 8
+# Breakout: 11
 def digit_sum(n):
   if n<10:
     return n
